@@ -3,3 +3,6 @@
 
 2. Webkul prestashop app for hotel booking system
 	https://github.com/webkul/hotelcommerce
+	
+3. Magento 2 create widget
+	https://www.dckap.com/blog/create-category-widget-magento-2/
